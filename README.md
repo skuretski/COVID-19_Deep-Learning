@@ -4,6 +4,13 @@ The CNNs supported are ResNet18, ResNet50, SqueezeNet 1.1, DenseNet-121, Incepti
 
 It builds on previous work from the [Deep-COVID](https://github.com/shervinmin/DeepCovid) and [COVID-Net](https://github.com/iliasprc/COVIDNet) papers.
 
+# Authors
+This repository is cloned from [amtoney524](https://github.com/amtoney524/cs598-team1149-final-project) and was the final project from
+CS598 Deep Learning for Healthcare at UIUC, spring 2021. The authors of this project are:
+- Ashley Toney [amtoney524](https://github.com/amtoney524)
+- Vijay Selvaraj [vs27-illinois](https://github.com/vs27-illinois)
+- Regan Chan [stat542](https://github.com/stat542)
+- Susie Kuretski [skuretski](https://github.com/skuretski)
 
 
 ## COVID-19 Radiography Database
